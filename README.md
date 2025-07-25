@@ -1,6 +1,6 @@
 # stenosis-detection
 
-This repository contains a two-stage deep learning pipeline for the detetion and localization of stenosis (narrowing of arteries) in coronary angiograms.The system leverages state-of-the-art computer vision architectures: EfficientNet and YOLOv9 enhanced with attention mechanisms to provide accurate classification and localization of stenotic regions. The detected stenosis is represented via bounding boxes drwan around it.
+This repository contains a two-stage deep learning pipeline for the detetion and localization of stenosis (narrowing of arteries) in coronary angiograms.The system leverages state-of-the-art computer vision architectures: EfficientNet and YOLOv9 enhanced with attention mechanisms to provide accurate classification and localization of stenotic regions. The detected stenosis is represented via bounding boxes drawn around it.
 
 - **Two-stage pipeline**:
   1. Classification: Identifies whether stenosis is present using EfficientNetB3.
